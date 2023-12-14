@@ -1,0 +1,7 @@
+# TIL 20231121
+
+
+Button disable 색상 변경
+
+foreground 시 색상 변경 안됨
+tint 시 자동으로 변경됨
